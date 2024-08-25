@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/logo.png</file>
+        <file>img/client.png</file>
+        <file>img/employe.png</file>
+        <file>img/notification.png</file>
+        <file>img/renduvu.png</file>
+        <file>img/station.png</file>
+        <file>img/user.png</file>
+        <file>img/web.png</file>
+        <file>img/produit.png</file>
+        <file>img/logout.png</file>
+        <file>img/logopetit.png</file>
+        <file>img/add.png</file>
+        <file>img/stat.png</file>
+        <file>img/update.svg</file>
+        <file>img/calcul.png</file>
+        <file>img/mail.webp</file>
+        <file>img/pdf.png</file>
+        <file>img/speech-bubble-chat-icon-sign-design-free-png.webp</file>
+        <file>img/delete.png</file>
+        <file>img/sms.png</file>
+    </qresource>
+</RCC>
